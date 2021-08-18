@@ -1,0 +1,21 @@
+.table {
+    width: 350px;
+}
+
+.btn1 {
+    width: 80px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.btn2 {
+    width: 80px;
+}
+
+.box {
+    border: 1px solid black;
+    width: 350px;
+}
+
+
+
